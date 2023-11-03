@@ -1,6 +1,15 @@
 # refactor-practice
 Practica de refactor
 
+##Integrantes 
+* Rodo Vilcarromero
+* Mauricio Alvarez
+* Diego Pacheco
+* Ronaldo Flores
+* Salvador Olivares
+* Alexandro Chamochumbi
+* Jeffry Hilario
+
 ## Evaluacion : 
 
 Clase CalculaGanador: Esta es la clase que contiene el programa y desde donde se instancia.
