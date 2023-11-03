@@ -1,7 +1,7 @@
 # refactor-practice
 Practica de refactor
 
-##Integrantes 
+## Integrantes 
 * Rodo Vilcarromero
 * Mauricio Alvarez
 * Diego Pacheco
