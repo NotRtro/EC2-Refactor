@@ -1,4 +1,5 @@
-# EC2-Refactor
+# refactor-practice
+Practica de refactor
 
 ## Evaluacion : 
 
